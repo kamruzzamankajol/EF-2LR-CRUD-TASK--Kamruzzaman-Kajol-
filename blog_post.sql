@@ -105,7 +105,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `phone_no`, `password`, `photo`, `address`, `optional_phone`, `optional_email`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Kamruzzaman Kajol', 'kajol@gmail.com', '01778207719', '$2y$10$UuBu0QjWaQVD48Rh5/ZhZ.dUlNAZlCcQH4UlWqIuhpdj3AXIpLEB6', '1.jpg', 'mirpur-1,D-Block', '017722555422', NULL, '8BQB8hZX7YBkwH9lb8eQuVtpWGD0DeCpG8WtQIDD23i6r1EwpNAQtoyb8MVZ', '2019-01-27 15:03:34', '2019-04-21 05:17:59');
+(1, 'Kamruzzaman Kajol', 'kajol@gmail.com', '01778207719', '$2y$10$O7V.ZU.NfimnisYoivuMS.yrmrqgg44ijH/wRWuqVZnowLFT93qba', '1.jpg', 'mirpur-1,D-Block', '017722555422', NULL, '8BQB8hZX7YBkwH9lb8eQuVtpWGD0DeCpG8WtQIDD23i6r1EwpNAQtoyb8MVZ', '2019-01-27 15:03:34', '2019-04-21 05:17:59');
 
 --
 -- Indexes for dumped tables
